@@ -7,6 +7,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * MainActivity
+ *
+ * @author Tao Yan
+ * @version July 2020
+ */
 public class MainActivity extends AppCompatActivity {
 
     Button button0, button1, button2, button3, button4, button5, button6,
